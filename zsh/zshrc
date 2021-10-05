@@ -1,0 +1,11 @@
+eval "$(starship init zsh)"
+source ~/.sources/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.sources/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+
+alias ls="ls --color"
+alias vim="nvim"
+
+export PF_COL3="5"
+export PF_INFO="ascii title os host kernel uptime pkgs memory palette"
+pfetch

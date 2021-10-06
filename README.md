@@ -19,8 +19,11 @@ my gentoo linux palenight dotfiles
 
 ### kde plasma
 install the quarter tiling kwin add-on.
+
 (incomplete) colour scheme provided in this folder. i based it off a onedark scheme i found, so some of the colours may be from onedark.
-my round corners kde fork is included. it is themed for plasma.
+
+my "round corners" kde global theme fork is included. it is themed with palenight colours.
+
 my kde shortcuts are also provided in case you are interested.
 
 ### portage
